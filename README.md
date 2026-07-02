@@ -19,6 +19,8 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 *💰 Revenue & Profit Trends
 *📊 Interactive Dashboard & Visualizations
 *💡 Actionable Business Insights
+* Microsoft Power BI
+
 
 ## Installation
 
