@@ -11,7 +11,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 <img width="1022" height="577" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/1cc12788-d5cf-4503-930d-d596fa2985d2" />
 
 
-##📊 Project Highlights
+## Project Highlights
 
 📈 Sales Performance Analysis
 🛍️ Product Category Insights
