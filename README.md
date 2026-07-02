@@ -8,8 +8,17 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-<img width="1028" height="582" alt="sales dashboard" src="https://github.com/user-attachments/assets/56088c29-4503-4f8c-8b25-3226afc51dd2" />
+<img width="1022" height="577" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/1cc12788-d5cf-4503-930d-d596fa2985d2" />
 
+
+##📊 Project Highlights
+
+📈 Sales Performance Analysis
+🛍️ Product Category Insights
+👥 Customer Behavior Analysis
+💰 Revenue & Profit Trends
+📊 Interactive Dashboard & Visualizations
+💡 Actionable Business Insights
 
 ## Installation
 
