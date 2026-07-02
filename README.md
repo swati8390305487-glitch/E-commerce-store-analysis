@@ -13,11 +13,11 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Project Highlights
 
-*📈 Sales Performance Analysis
-*🛍️ Product Category Insights
-*👥 Customer Behavior Analysis
-*💰 Revenue & Profit Trends
-*📊 Interactive Dashboard & Visualizations
+* 📈 Sales Performance Analysis
+* 🛍️ Product Category Insights
+* 👥 Customer Behavior Analysis
+* 💰 Revenue & Profit Trends
+* 📊 Interactive Dashboard & Visualizations
 * 💡 Actionable Business Insights
 
 
