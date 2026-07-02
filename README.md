@@ -8,7 +8,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-<img width="1028" height="578" alt="image" src="https://github.com/user-attachments/assets/c6ff7d00-dac8-4114-8f5f-29aeececffa7" />
+<img width="1028" height="582" alt="sales dashboard" src="https://github.com/user-attachments/assets/56088c29-4503-4f8c-8b25-3226afc51dd2" />
 
 
 ## Installation
